@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frann107
-- 🌱 I’m currently learning how to build relational databases 
+- 🌱 I’m currently learning how to build back end developments and APIs
 - 💞️ How to reach me https://www.linkedin.com/in/frances-cook-705950122/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My full name means 'a Frenchman' in French.
